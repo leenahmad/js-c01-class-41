@@ -6,7 +6,7 @@ import Header from './components/Header';
 import Score from './components/Score';
 import Card from './components/Card';
 
-import helpers from './helpers';
+
 
 export default class App extends React.Component {
 
